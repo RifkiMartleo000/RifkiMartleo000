@@ -12,7 +12,7 @@
 
 ### Achievements
 - **Top 7** - Sebelas Maret Statistics Infographic Competition (SSIC) | SSF UNS 2024
-**Top 6** - Dashboard Analisys | Gelarrasa UPNVJT 2024
+- **Top 6** - Dashboard Analisys | Gelarrasa UPNVJT 2024
 - **🥉3rd Place** - Statistics Infographic Competition (KIS) | ANAVA UGM #19 2025
 - **Top 4** - Infographic Competition | SMATIC 6.0 UNJ 2025
 - **🥈2nd Place** - Sebelas Maret Statistics Infographic Competition (SSIC) | SSF UNS 2025
