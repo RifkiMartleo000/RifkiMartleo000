@@ -11,16 +11,16 @@
 ---
 
 ### Achievements
-- **Top 7** - Sebelas Maret Statistics Infographic Competition (SSIC) | SSF UNS 2024
-- **Top 6** - Dashboard Analysis | Gelarrasa UPNVJT 2024
-- **🥉3rd Place** - Statistics Infographic Competition (KIS) | ANAVA UGM #19 2025
-- **Top 4** - Infographic Competition | SMATIC 6.0 UNJ 2025
-- **🥈2nd Place** - Sebelas Maret Statistics Infographic Competition (SSIC) | SSF UNS 2025
-- **Top 4** - Sebelas Maret Statistics Dashboard Competition (SSIC) | SSF UNS 2025
-- **🏅1st Place** - Infographics Competition | IPB Mathemathics Challenge 2025
-- **Top 6** - University Infographic Competition (UIC) | Rasio 9.0 Unpad 2025
-- **Finalist** - Airlangga Statistics Infographic Competition (ASIC) | Arsen Unair 2025
 - **🥈2nd Place** - Statistics Infographic Competition (SIC) | Satria Data 2025
+- **Finalist** - Airlangga Statistics Infographic Competition (ASIC) | Arsen Unair 2025
+- **Top 6** - University Infographic Competition (UIC) | Rasio 9.0 Unpad 2025
+- **🏅1st Place** - Infographics Competition | IPB Mathemathics Challenge 2025
+- **Top 4** - Sebelas Maret Statistics Dashboard Competition (SSIC) | SSF UNS 2025
+- **🥈2nd Place** - Sebelas Maret Statistics Infographic Competition (SSIC) | SSF UNS 2025
+- **Top 4** - Infographic Competition | SMATIC 6.0 UNJ 2025
+- **🥉3rd Place** - Statistics Infographic Competition (KIS) | ANAVA UGM #19 2025
+- **Top 6** - Dashboard Analysis | Gelarrasa UPNVJT 2024
+- **Top 7** - Sebelas Maret Statistics Infographic Competition (SSIC) | SSF UNS 2024
 
 ---
 
