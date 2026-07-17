@@ -11,6 +11,7 @@
 ---
 
 ### Achievements
+- **🏅1st Place** - Statistics Infographic Competition (SIC) | Matematika Fair Unimed 2026
 - **🥈2nd Place** - Statistics Infographic Competition (SIC) | Satria Data 2025
 - **Finalist** - Airlangga Statistics Infographic Competition (ASIC) | Arsen Unair 2025
 - **Top 6** - University Infographic Competition (UIC) | Rasio 9.0 Unpad 2025
