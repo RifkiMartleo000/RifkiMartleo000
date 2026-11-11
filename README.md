@@ -11,6 +11,8 @@
 ---
 
 ### Achievements
+- **Top 4** - Infographic Competition | Campus Data Week Unair 2026
+- **🥉3rd Place** - University Infographic Competition (UIC) | Rasio 10.0 Unpad 2026
 - **🏅1st Place** - Statistics Infographic Competition (SIC) | Matematika Fair Unimed 2026
 - **🥈2nd Place** - Statistics Infographic Competition (SIC) | Satria Data 2025
 - **Finalist** - Airlangga Statistics Infographic Competition (ASIC) | Arsen Unair 2025
